@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  }
+
+h1 {
+  color: #660066;
+  text-align: center;
+}
+
+h2 {
+  color: #b300b3;
+  text-align: center;
+}
+
+table {
+  border: 1px solid #cc33ff;
+  margin: 0 auto;
+  width: 650px;
+}
+
+thead {
+  background-color: #cc33ff;
+}
+
+td {
+  border: 1px solid #cc33ff;
+  padding: 2px 0 2px 5px;
+}
+
+.col {
+  background-color: #ffffcc;
+}
